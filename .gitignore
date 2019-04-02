@@ -1,0 +1,8 @@
+*.o
+*.tar
+*.gz
+*.swp
+*.swo
+*.exe
+*.obj
+
